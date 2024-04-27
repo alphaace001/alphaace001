@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @alphaace001
 - 👀 I’m interested in Artifical Intelligence 
 - 🌱 I’m currently learning Machine Learning and Open Cv
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: facts are facts
 
 <!---

@@ -136,8 +136,7 @@
 
 ## 🚀 Featured Projects
 
-> ⚠️ This section is currently a placeholder.  
-> Tell me **3–10 repo names**, and I’ll rewrite this section automatically.
+> ⚠️ Placeholder section — tell me your repo names to populate this.
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -157,8 +156,12 @@
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaace001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8"/>
 </p>
 
+---
+
+## 🟦 Contribution Graph (Working Version)
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphaace001&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=alphaace001&theme=react-dark&hide_border=true" width="98%"/>
 </p>
 
 ---

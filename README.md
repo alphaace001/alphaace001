@@ -1,89 +1,77 @@
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sriharsha%20Velicheti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Tech%20Educator&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Atul%20Sehwag&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20ML%20Engineer%20%7C%20Data%20Scientist&descAlignY=55&descSize=18"/>
 
 <!-- BADGES ROW -->
 <p align="center">
-  <a href="https://alphaace001.github.io/portfolio-frontend/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-667eea?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=alphaace&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=alphaace001&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="mailto:atulsehwag2000@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me-Available-00c853?style=for-the-badge" alt="Available for Hire"/>
+    <img src="https://img.shields.io/badge/Contact%20Me-Email-00c853?style=for-the-badge" alt="Email"/>
   </a>
 </p>
 
 <!-- TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+Solutions+That+Matter+%F0%9F%9A%80;From+Data+to+Decisions%2C+One+Model+at+a+Time+%F0%9F%93%8A;Turning+Ideas+into+Intelligent+Systems+%F0%9F%92%A1" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+Systems+That+Matter+%F0%9F%9A%80;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%92%A1;Machine+Learning+%7C+Deep+Learning+%7C+GenAI" alt="Typing SVG"/>
   </a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
+## 👨‍💻 About Me
 
 <table>
   <tr>
     <td width="60%" valign="top">
       <h3>👨‍💻 Atul Sehwag</h3>
+      <p><i>Generative AI Engineer & ML Engineer from India 🇮🇳</i></p>
       <p>
-        <i>Generative AI Engineer & Data Scientist based in India 🇮🇳</i>
-      </p>
-      <p>
-        I am passionate about <b>bridging AI innovation with real-world impact</b>. My work focuses on building intelligent systems that turn data into actionable decisions.
+        Passionate about <b>AI-driven innovation</b>, I focus on building intelligent systems that solve real-world problems using GenAI, machine learning, and agentic architectures.
       </p>
       <br/>
       <b>🚀 Current Focus</b>
       <ul>
-        <li>🔭 Building <b>Multimodal RAG Applications</b></li>
-        <li>🌱 Mastering <b>Full Stack Development</b></li>
-        <li>🤝 Open to <b>AI/ML Collaborations</b></li>
+        <li>🔭 Multimodal RAG Applications</li>
+        <li>🧠 Agentic AI Systems</li>
+        <li>🌱 Full-Stack + AI Development</li>
       </ul>
+
       <b>🎯 2025 Goals</b>
       <ul>
-        <li>✨ Launch impactful open-source AI projects</li>
-        <li>🏗️ Build production-ready AI applications</li>
-        <li>📚 Mentor aspiring AI engineers</li>
+        <li>✨ Ship impactful open-source GenAI projects</li>
+        <li>🏗️ Build production-grade AI systems</li>
+        <li>📚 Contribute to AI developer community</li>
       </ul>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer"/>
+
+  <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="380" alt="Developer"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" /> Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/atulsehwag/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <!-- <a href="https://instagram.com/sriharsha_velicheti" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a> -->
-  <!-- &nbsp; -->
-  <!-- <a href="https://www.hackerrank.com/srih8991" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a> -->
   &nbsp;
   <a href="https://leetcode.com/u/aplhaace/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="mailto:atulsehwag@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:atulsehwag2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Tech Stack
+## 🛠️ Tech Stack
 
 <table align="center">
 <tr>
@@ -105,6 +93,7 @@
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -112,6 +101,7 @@
 
 </td>
 </tr>
+
 <tr>
 <td align="center" width="50%">
 
@@ -125,11 +115,13 @@
 </p>
 
 </td>
+
 <td align="center" width="50%">
 
 ### 🗄️ Backend & DB
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -142,53 +134,39 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
+> ⚠️ This section is currently a placeholder.  
+> Tell me **3–10 repo names**, and I’ll rewrite this section automatically.
 
-| 🎯 Project | 📝 Description | 🛠️ Tech |
-|:-----------|:--------------|:--------|
-| **[🌐 Portfolio Frontend](https://github.com/alphaace001/portfolio-frontend)** | Modern developer portfolio showcasing projects, skills, and experience — built with a responsive UI and smooth navigation. | `HTML` `CSS` `JavaScript` |
-| **[🏥 Health Risk Prediction App](https://github.com/sriharsha8991/Health_Risk_Prediction_App)** | Flask-based web application designed to predict health risks based on lifestyle choices and conditions using ML. | `Python` `Flask` `ML` |
-| **[🔍 Resume Tracker](https://github.com/sriharsha8991/Resume-Tracker)** | Streamlit-based application designed to simplify the recruitment process for HR professionals to filter and analyze resumes. | `Python` `Streamlit` `NLP` |
-| **[📊 SyncAnalytica](https://github.com/sriharsha8991/syncanalytica)** | Interactive web-based tool to upload CSV/Excel files, analyze data, generate visual insights, and create professional reports. | `Python` `Pandas` `Streamlit` |
-| **[😊 Text to Emoji Converter](https://github.com/sriharsha8991/Text-to-Emoji-converter)** | Application built on top of Gemini 1.5 pro model to convert text to emojis. | `Python` `Gemini API` |
-| **[🎙️ Live API Web Console](https://github.com/sriharsha8991/live-api-web-console)** | React-based starter app for using the Live API over websockets with Gemini. | `TypeScript` `React` `Gemini API` |
-
-</div>
+| Project | Description | Tech |
+|--------|-------------|------|
+| _Coming Soon_ | Add your best work here | — |
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alphaace001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alphaace001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff"/>
   &nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com?user=sriharsha8991&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alphaace001&theme=github-dark-blue&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaace001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaace001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8"/>
 </p>
 
-<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphaace001&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alphaace001&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphaace001&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="98%"/>
 </p>
 
 ---
 
-<!-- SNAKE ANIMATION -->
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alphaace001&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </p>
 
 ---
@@ -197,11 +175,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 <h3 align="center">
-  💡 <i>"Turning ideas into impactful AI solutions, one commit at a time."</i>
+  💡 <i>"Turning ideas into impactful AI solutions."</i>
 </h3>
 
 <p align="center">

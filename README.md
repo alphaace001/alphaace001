@@ -1,102 +1,209 @@
-<h1 align="center">Hi 👋, I'm Atul!</h1>
-<h3 align="center">Master's student in AI & ML, passionate about using LLMs to solve real-world problems, with a knack for coding.</h3>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sriharsha%20Velicheti&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Tech%20Educator&descAlignY=55&descSize=18"/>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Adityak8340&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/atulsehwag/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://www.kaggle.com/atulsehwag00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your_username" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/msa23017_iiitl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="your_username" height="30" width="40" /></a>
+<!-- BADGES ROW -->
+<p align="center">
+  <a href="https://alphaace001.github.io/portfolio-frontend/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-667eea?style=for-the-badge" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=alphaace&label=Profile%20Views&color=764ba2&style=for-the-badge" alt="Profile Views"/>
+  &nbsp;
+  <a href="mailto:atulsehwag2000@gmail.com">
+    <img src="https://img.shields.io/badge/Hire%20Me-Available-00c853?style=for-the-badge" alt="Available for Hire"/>
+  </a>
 </p>
 
-
-
-## Languages and Tools 
-<div>
-
-### Languages:
-| Python3 | C | C++ |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  |
-
-  
-
-### Best frameworks and main libraries for Python3:
-
-| Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
-|----------|----------|----------|----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
-
-
-
-### My tools for Data Manipulation:
-
-| Conda | Jupyter | Spark | MySQL | Postgres | SQLite |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
-
-
-
-  
-### Environments, Testing, Other:
-
-| Git | Docker | Pytest | Postman | Virtual Box|
-|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|<img src="https://banner2.cleanpng.com/20190501/xvt/kisspng-computer-icons-virtualbox-portable-network-graphic-virtualbox-icon-of-line-style-available-in-svg-5cca247f73f9e3.6112721115567514874751.jpg" title="Postman" alt="Postman" width="80" height="55"/>|
-
-
-
-
-
-### A non-technological resource which is slated for imminent revision.:
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="ssh" alt="ssh" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/datagrip/datagrip-original.svg" title="dg" alt="dg" width="30" height="30"/>  ]
-</div>
-
-
-<h3 align="left">Academic Coursework:</h3>
-<p align="left"> 
-    - Data Structures and Algorithms <br>
-    - Database Management Systems <br>
-    - Deep Learning <br>
-    - Image Vision and Processing
+<!-- TYPING SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+AI+Solutions+That+Matter+%F0%9F%9A%80;From+Data+to+Decisions%2C+One+Model+at+a+Time+%F0%9F%93%8A;Turning+Ideas+into+Intelligent+Systems+%F0%9F%92%A1" alt="Typing SVG"/>
+  </a>
 </p>
-
-
 
 ---
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=alphaace001&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="28" /> About Me
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 Atul Sehwag</h3>
+      <p>
+        <i>Generative AI Engineer & Data Scientist based in India 🇮🇳</i>
+      </p>
+      <p>
+        I am passionate about <b>bridging AI innovation with real-world impact</b>. My work focuses on building intelligent systems that turn data into actionable decisions.
+      </p>
+      <br/>
+      <b>🚀 Current Focus</b>
+      <ul>
+        <li>🔭 Building <b>Multimodal RAG Applications</b></li>
+        <li>🌱 Mastering <b>Full Stack Development</b></li>
+        <li>🤝 Open to <b>AI/ML Collaborations</b></li>
+      </ul>
+      <b>🎯 2025 Goals</b>
+      <ul>
+        <li>✨ Launch impactful open-source AI projects</li>
+        <li>🏗️ Build production-ready AI applications</li>
+        <li>📚 Mentor aspiring AI engineers</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="Developer"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-
-
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" /> Connect With Me
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=alphaace001&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaace001&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <a href="https://www.linkedin.com/in/atulsehwag/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <!-- <a href="https://instagram.com/sriharsha_velicheti" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a> -->
+  <!-- &nbsp; -->
+  <!-- <a href="https://www.hackerrank.com/srih8991" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a> -->
+  &nbsp;
+  <a href="https://leetcode.com/u/aplhaace/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="mailto:atulsehwag@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
- 
 
+---
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=alphaace001&style=for-the-badge&color=orange" alt=""/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🐍 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🤖 AI / ML
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 📊 Data Science
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🗄️ Backend & DB
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" /> Featured Projects
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech |
+|:-----------|:--------------|:--------|
+| **[🌐 Portfolio Frontend](https://github.com/alphaace001/portfolio-frontend)** | Modern developer portfolio showcasing projects, skills, and experience — built with a responsive UI and smooth navigation. | `HTML` `CSS` `JavaScript` |
+| **[🏥 Health Risk Prediction App](https://github.com/sriharsha8991/Health_Risk_Prediction_App)** | Flask-based web application designed to predict health risks based on lifestyle choices and conditions using ML. | `Python` `Flask` `ML` |
+| **[🔍 Resume Tracker](https://github.com/sriharsha8991/Resume-Tracker)** | Streamlit-based application designed to simplify the recruitment process for HR professionals to filter and analyze resumes. | `Python` `Streamlit` `NLP` |
+| **[📊 SyncAnalytica](https://github.com/sriharsha8991/syncanalytica)** | Interactive web-based tool to upload CSV/Excel files, analyze data, generate visual insights, and create professional reports. | `Python` `Pandas` `Streamlit` |
+| **[😊 Text to Emoji Converter](https://github.com/sriharsha8991/Text-to-Emoji-converter)** | Application built on top of Gemini 1.5 pro model to convert text to emojis. | `Python` `Gemini API` |
+| **[🎙️ Live API Web Console](https://github.com/sriharsha8991/live-api-web-console)** | React-based starter app for using the Live API over websockets with Gemini. | `TypeScript` `React` `Gemini API` |
+
 </div>
 
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> GitHub Analytics
+
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alphaace001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" alt="GitHub Stats"/>
+  &nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=sriharsha8991&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alphaace001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alphaace001&bg_color=0D1117&color=667eea&line=764ba2&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" /> GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alphaace001&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+</p>
+
+---
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<h3 align="center">
+  💡 <i>"Turning ideas into impactful AI solutions, one commit at a time."</i>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-%E2%9D%A4%EF%B8%8F-ff69b4?style=for-the-badge"/>
 </p>
